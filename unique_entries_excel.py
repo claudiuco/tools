@@ -1,6 +1,6 @@
 ## Title:       Unique entries from multiple files
 ## Description: Analyze .xlsx files from a directory and returns a list of unique entries and their count
-## Author:      Claudiu Costin
+## Author:      The Good Root
 ## Version:     1.3
 ## Date:        2024-02-27
 
