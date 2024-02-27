@@ -1,4 +1,4 @@
-## Title:       Automate AD user creation (T1 accounts in Microsoft Tier Model. 
+## Title:       Automate AD user creation . 
 ## Author:      Claudiu Costin
 ## Version:     1.5
 ## Date:        2024-02-27
