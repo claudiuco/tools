@@ -1,4 +1,4 @@
-## Title:       Automate AD user creation . 
+## Title:       Automate AD user creation with bulk option. 
 ## Author:      Claudiu Costin
 ## Version:     1.5
 ## Date:        2024-02-27
@@ -7,7 +7,7 @@
 Set-Location -Path "C:\Temp\ADAccounts"
 
 #Enter a path to your import CSV file
-$ADUsers = Import-csv .\T1_NewServiceAccounts.csv -Delimiter ","
+$ADUsers = Import-csv .\NewServiceAccounts.csv -Delimiter ","
 
 foreach ($User in $ADUsers)
 {
